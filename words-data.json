@@ -1,0 +1,70 @@
+{
+  "noun": [
+    {
+      "track": "1",
+      "eng": "country",
+      "rus": "страна"
+    },
+    {
+      "track": "2",
+      "eng": "nature",
+      "rus": "природа"
+    },
+    {
+      "track": "3",
+      "eng": "sky",
+      "rus": "небо"
+    }
+  ],
+  "adjective": [
+    {
+      "track": "1",
+      "eng": "red",
+      "rus": "красный"
+    },
+    {
+      "track": "2",
+      "eng": "orange",
+      "rus": "оранжевый"
+    },
+    {
+      "track": "3",
+      "eng": "yellow",
+      "rus": "желтый"
+    }
+  ],
+  "verb": [
+    {
+      "track": "1",
+      "eng": "move",
+      "rus": "двигать(ся)"
+    },
+    {
+      "track": "2",
+      "eng": "stop",
+      "rus": "останавливать(ся)"
+    },
+    {
+      "track": "3",
+      "eng": "lift",
+      "rus": "поднимать"
+    }
+  ],
+  "other": [
+    {
+      "track": "1",
+      "eng": "how",
+      "rus": "как"
+    },
+    {
+      "track": "2",
+      "eng": "how many",
+      "rus": "сколько"
+    },
+    {
+      "track": "3",
+      "eng": "how much",
+      "rus": "сколько"
+    }
+  ]
+}

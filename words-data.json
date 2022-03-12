@@ -12,8 +12,43 @@
     },
     {
       "track": "3",
-      "eng": "sky",
+      "eng": "sun",
       "rus": "небо"
+    },
+    {
+      "track": "4",
+      "eng": "air",
+      "rus": "воздух"
+    },
+    {
+      "track": "5",
+      "eng": "cloud",
+      "rus": "облако"
+    },
+    {
+      "track": "6",
+      "eng": "land",
+      "rus": "суша"
+    },
+    {
+      "track": "7",
+      "eng": "continent",
+      "rus": "континент"
+    },
+    {
+      "track": "8",
+      "eng": "territory",
+      "rus": "территория"
+    },
+    {
+      "track": "9",
+      "eng": "water",
+      "rus": "вода"
+    },
+    {
+      "track": "10",
+      "eng": "river",
+      "rus": "река"
     }
   ],
   "adjective": [
@@ -31,6 +66,41 @@
       "track": "3",
       "eng": "yellow",
       "rus": "желтый"
+    },
+    {
+      "track": "4",
+      "eng": "green",
+      "rus": "зеленый"
+    },
+    {
+      "track": "5",
+      "eng": "blue",
+      "rus": "синий"
+    },
+    {
+      "track": "6",
+      "eng": "violet",
+      "rus": "фиолетовый"
+    },
+    {
+      "track": "7",
+      "eng": "black",
+      "rus": "черный"
+    },
+    {
+      "track": "8",
+      "eng": "white",
+      "rus": "белый"
+    },
+    {
+      "track": "9",
+      "eng": "brown",
+      "rus": "коричневый"
+    },
+    {
+      "track": "10",
+      "eng": "grey ",
+      "rus": "серый"
     }
   ],
   "verb": [
@@ -48,6 +118,41 @@
       "track": "3",
       "eng": "lift",
       "rus": "поднимать"
+    },
+    {
+      "track": "4",
+      "eng": "raise",
+      "rus": "поднимать"
+    },
+    {
+      "track": "5",
+      "eng": "rise",
+      "rus": "подниматься"
+    },
+    {
+      "track": "6",
+      "eng": "lower",
+      "rus": "опускать"
+    },
+    {
+      "track": "7",
+      "eng": "go out",
+      "rus": "выходить"
+    },
+    {
+      "track": "8",
+      "eng": "go in",
+      "rus": "входить"
+    },
+    {
+      "track": "9",
+      "eng": "leave",
+      "rus": "отправляться"
+    },
+    {
+      "track": "10",
+      "eng": "cross",
+      "rus": "пересекать"
     }
   ],
   "other": [
@@ -64,6 +169,41 @@
     {
       "track": "3",
       "eng": "how much",
+      "rus": "сколько"
+    },
+    {
+      "track": "4",
+      "eng": "where",
+      "rus": "где"
+    },
+    {
+      "track": "5",
+      "eng": "when",
+      "rus": "когда"
+    },
+    {
+      "track": "6",
+      "eng": "why",
+      "rus": "почему"
+    },
+    {
+      "track": "7",
+      "eng": "anywhere",
+      "rus": "где-нибудь"
+    },
+    {
+      "track": "8",
+      "eng": "here",
+      "rus": "здесь"
+    },
+    {
+      "track": "9",
+      "eng": "there",
+      "rus": "там"
+    },
+    {
+      "track": "10",
+      "eng": "somewhere",
       "rus": "сколько"
     }
   ]

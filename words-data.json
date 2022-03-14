@@ -62,22 +62,22 @@
     },
     {
       "track": "north-us",
-      "eng": "North",
+      "eng": "north",
       "rus": "север"
     },
     {
       "track": "south-us",
-      "eng": "South",
+      "eng": "south",
       "rus": "юг"
     },
     {
       "track": "east-us",
-      "eng": "East",
+      "eng": "east",
       "rus": "восток"
     },
     {
       "track": "west-us",
-      "eng": "West",
+      "eng": "west",
       "rus": "запад"
     },
     {

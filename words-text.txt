@@ -333,6 +333,7 @@ full - полный
 Погода
 weather - погода
 season - сезон
+north - север
 winter - зима
 spring - весна
 summer - лето

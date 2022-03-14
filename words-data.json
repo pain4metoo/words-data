@@ -61,9 +61,9 @@
       "rus": "лес"
     },
     {
-      "track": "north-us",
-      "eng": "north",
-      "rus": "север"
+      "track": "water-us",
+      "eng": "water",
+      "rus": "вода"
     },
     {
       "track": "south-us",
@@ -121,9 +121,9 @@
       "rus": "время"
     },
     {
-      "track": "century-us",
-      "eng": "century",
-      "rus": "столетие, век"
+      "track": "sun-us",
+      "eng": "sun",
+      "rus": "солнце"
     },
     {
       "track": "year-us",
@@ -146,9 +146,9 @@
       "rus": "день"
     },
     {
-      "track": "hour-us",
-      "eng": "hour",
-      "rus": "час"
+      "track": "century-us",
+      "eng": "century",
+      "rus": "век, столетие"
     }
   ],
   "adjective": [

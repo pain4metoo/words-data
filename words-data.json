@@ -301,6 +301,781 @@
       "track": "dry-us",
       "eng": "dry",
       "rus": "сухой"
+    },
+    {
+      "track": "red-us",
+      "eng": "red",
+      "rus": "красный"
+    },
+    {
+      "track": "orange-us",
+      "eng": "orange",
+      "rus": "оранжевый"
+    },
+    {
+      "track": "yellow-us",
+      "eng": "yellow",
+      "rus": "желтый"
+    },
+    {
+      "track": "green-us",
+      "eng": "green",
+      "rus": "зеленый"
+    },
+    {
+      "track": "blue-us",
+      "eng": "blue",
+      "rus": "синий"
+    },
+    {
+      "track": "violet-us",
+      "eng": "violet",
+      "rus": "фиолетовый"
+    },
+    {
+      "track": "black-us",
+      "eng": "black",
+      "rus": "черный"
+    },
+    {
+      "track": "white-us",
+      "eng": "white",
+      "rus": "белый"
+    },
+    {
+      "track": "brown-us",
+      "eng": "brown",
+      "rus": "коричневый"
+    },
+    {
+      "track": "grey-us",
+      "eng": "grey",
+      "rus": "серый"
+    },
+    {
+      "track": "dark-us",
+      "eng": "dark",
+      "rus": "темный"
+    },
+    {
+      "track": "light-us",
+      "eng": "light",
+      "rus": "светлый"
+    },
+    {
+      "track": "bright-us",
+      "eng": "bright",
+      "rus": "яркий"
+    },
+    {
+      "track": "pale-us",
+      "eng": "pale",
+      "rus": "бледный"
+    },
+    {
+      "track": "flat-us",
+      "eng": "flat",
+      "rus": "плоский"
+    },
+    {
+      "track": "straight-us",
+      "eng": "straight",
+      "rus": "прямой"
+    },
+    {
+      "track": "curved-us",
+      "eng": "curved",
+      "rus": "кривой"
+    },
+    {
+      "track": "square-us",
+      "eng": "square",
+      "rus": "квадратный"
+    },
+    {
+      "track": "oval-us",
+      "eng": "oval",
+      "rus": "овальный"
+    },
+    {
+      "track": "round-us",
+      "eng": "round",
+      "rus": "круглый"
+    },
+    {
+      "track": "sweet-us",
+      "eng": "sweet",
+      "rus": "сладкий"
+    },
+    {
+      "track": "spicy-us",
+      "eng": "spicy",
+      "rus": "острый"
+    },
+    {
+      "track": "loud-us",
+      "eng": "loud",
+      "rus": "громкий"
+    },
+    {
+      "track": "quiet-us",
+      "eng": "quiet",
+      "rus": "тихий"
+    },
+    {
+      "track": "noisy-us",
+      "eng": "noisy",
+      "rus": "шумный"
+    },
+    {
+      "track": "sharp-us",
+      "eng": "sharp",
+      "rus": "резкий"
+    },
+    {
+      "track": "aromatic-us",
+      "eng": "aromatic",
+      "rus": "ароматный"
+    },
+    {
+      "track": "specific-us",
+      "eng": "specific",
+      "rus": "специфический"
+    },
+    {
+      "track": "smelly-us",
+      "eng": "smelly",
+      "rus": "неприятно пахнущий"
+    },
+    {
+      "track": "fast-us",
+      "eng": "fast",
+      "rus": "быстрый"
+    },
+    {
+      "track": "quick-us",
+      "eng": "quick",
+      "rus": "быстрый"
+    },
+    {
+      "track": "slow-us",
+      "eng": "slow",
+      "rus": "медленный"
+    },
+    {
+      "track": "early-us",
+      "eng": "early",
+      "rus": "ранний"
+    },
+    {
+      "track": "late-us",
+      "eng": "late",
+      "rus": "поздний"
+    },
+    {
+      "track": "old-us",
+      "eng": "old",
+      "rus": "старый"
+    },
+    {
+      "track": "new-us",
+      "eng": "new",
+      "rus": "новый"
+    },
+    {
+      "track": "young-us",
+      "eng": "young",
+      "rus": "молодой"
+    },
+    {
+      "track": "adult-us",
+      "eng": "adult",
+      "rus": "взрослый"
+    },
+    {
+      "track": "ancient-us",
+      "eng": "ancient",
+      "rus": "древний"
+    },
+    {
+      "track": "past-us",
+      "eng": "past",
+      "rus": "прошлый"
+    },
+    {
+      "track": "present-us",
+      "eng": "present",
+      "rus": "настоящий"
+    },
+    {
+      "track": "future-us",
+      "eng": "future",
+      "rus": "будущий"
+    },
+    {
+      "track": "previous-us",
+      "eng": "previous",
+      "rus": "предыдущий"
+    },
+    {
+      "track": "recent-us",
+      "eng": "recent",
+      "rus": "недавний"
+    },
+    {
+      "track": "next-us",
+      "eng": "next",
+      "rus": "следующий"
+    },
+    {
+      "track": "following-us",
+      "eng": "following",
+      "rus": "следующий"
+    },
+    {
+      "track": "constant-us",
+      "eng": "constant",
+      "rus": "постоянный"
+    },
+    {
+      "track": "continuous-us",
+      "eng": "continuous",
+      "rus": "длящийся"
+    },
+    {
+      "track": "uninterrupted-us",
+      "eng": "uninterrupted",
+      "rus": "непрерывный"
+    },
+    {
+      "track": "infrequent-us",
+      "eng": "infrequent",
+      "rus": "нечастый"
+    },
+    {
+      "track": "frequent-us",
+      "eng": "frequent",
+      "rus": "частый"
+    },
+    {
+      "track": "sudden-us",
+      "eng": "sudden",
+      "rus": "внезапный"
+    },
+    {
+      "track": "urgent-us",
+      "eng": "urgent",
+      "rus": "срочный"
+    },
+    {
+      "track": "usual-us",
+      "eng": "usual",
+      "rus": "обычный"
+    },
+    {
+      "track": "calm-us",
+      "eng": "calm",
+      "rus": "спокойный"
+    },
+    {
+      "track": "angry-us",
+      "eng": "angry",
+      "rus": "злой, сердитый"
+    },
+    {
+      "track": "sad-us",
+      "eng": "sad",
+      "rus": "печальный"
+    },
+    {
+      "track": "lonely-us",
+      "eng": "lonely",
+      "rus": "одинокий"
+    },
+    {
+      "track": "happy-us",
+      "eng": "happy",
+      "rus": "счастливый"
+    },
+    {
+      "track": "good-us",
+      "eng": "good",
+      "rus": "хороший"
+    },
+    {
+      "track": "bad-us",
+      "eng": "bad",
+      "rus": "плохой"
+    },
+    {
+      "track": "interesting-us",
+      "eng": "interesting",
+      "rus": "интересный"
+    },
+    {
+      "track": "boring-us",
+      "eng": "boring",
+      "rus": "скучный"
+    },
+    {
+      "track": "pleasant-us",
+      "eng": "pleasant",
+      "rus": "приятный"
+    },
+    {
+      "track": "unpleasant-us",
+      "eng": "unpleasant",
+      "rus": "неприятный"
+    },
+    {
+      "track": "excellent-us",
+      "eng": "excellent",
+      "rus": "отличный"
+    },
+    {
+      "track": "perfect-us",
+      "eng": "perfect",
+      "rus": "совершенный"
+    },
+    {
+      "track": "abominable-us",
+      "eng": "abominable",
+      "rus": "отвратительный"
+    },
+    {
+      "track": "beautiful-us",
+      "eng": "beautiful",
+      "rus": "красивый"
+    },
+    {
+      "track": "attractive-us",
+      "eng": "attractive",
+      "rus": "привлекательный"
+    },
+    {
+      "track": "kind-us",
+      "eng": "kind",
+      "rus": "добрый"
+    },
+    {
+      "track": "hostile-us",
+      "eng": "hostile",
+      "rus": "враждебный"
+    },
+    {
+      "track": "gentle-us",
+      "eng": "gentle",
+      "rus": "вежливый"
+    },
+    {
+      "track": "polite-us",
+      "eng": "polite",
+      "rus": "вежливый"
+    },
+    {
+      "track": "rude-us",
+      "eng": "rude",
+      "rus": "грубый"
+    },
+    {
+      "track": "generous-us",
+      "eng": "generous",
+      "rus": "щедрый"
+    },
+    {
+      "track": "excited-us",
+      "eng": "excited",
+      "rus": "взволнованный"
+    },
+    {
+      "track": "frightened-us",
+      "eng": "frightened",
+      "rus": "испуганный"
+    },
+    {
+      "track": "astonished-us",
+      "eng": "astonished",
+      "rus": "удивленный"
+    },
+    {
+      "track": "sensitive-us",
+      "eng": "sensitive",
+      "rus": "чувствительный"
+    },
+    {
+      "track": "indifferent-us",
+      "eng": "indifferent",
+      "rus": "безразличный"
+    },
+    {
+      "track": "hard-hearted-us",
+      "eng": "hard-hearted",
+      "rus": "черствый"
+    },
+    {
+      "track": "good-hearted-us",
+      "eng": "good-hearted",
+      "rus": "добросердечный"
+    },
+    {
+      "track": "decent-us",
+      "eng": "decent",
+      "rus": "приличный"
+    },
+    {
+      "track": "honest-us",
+      "eng": "honest",
+      "rus": "честный"
+    },
+    {
+      "track": "fair-us",
+      "eng": "fair",
+      "rus": "честный /справедливый"
+    },
+    {
+      "track": "sincere-us",
+      "eng": "sincere",
+      "rus": "искренний"
+    },
+    {
+      "track": "dishonest-us",
+      "eng": "dishonest",
+      "rus": "нечестный"
+    },
+    {
+      "track": "innocent-us",
+      "eng": "innocent",
+      "rus": "невиновный"
+    },
+    {
+      "track": "guilty-us",
+      "eng": "guilty",
+      "rus": "виновный"
+    },
+    {
+      "track": "criminal-us",
+      "eng": "criminal",
+      "rus": "преступный"
+    },
+    {
+      "track": "talkative-us",
+      "eng": "talkative",
+      "rus": "разговорчивый"
+    },
+    {
+      "track": "sociable-us",
+      "eng": "sociable",
+      "rus": "общительный"
+    },
+    {
+      "track": "disobedient-us",
+      "eng": "disobedient",
+      "rus": "непослушный"
+    },
+    {
+      "track": "strict-us",
+      "eng": "strict",
+      "rus": "строгий"
+    },
+    {
+      "track": "mild-us",
+      "eng": "mild",
+      "rus": "мягкий"
+    },
+    {
+      "track": "reliable-us",
+      "eng": "reliable",
+      "rus": "надежный"
+    },
+    {
+      "track": "brave-us",
+      "eng": "brave",
+      "rus": "храбрый"
+    },
+    {
+      "track": "reasonable-us",
+      "eng": "reasonable",
+      "rus": "разумный"
+    },
+    {
+      "track": "cautious-us",
+      "eng": "cautious",
+      "rus": "осторожный"
+    },
+    {
+      "track": "clever-us",
+      "eng": "clever",
+      "rus": "умный"
+    },
+    {
+      "track": "intelligent-us",
+      "eng": "intelligent",
+      "rus": "умный, знающий"
+    },
+    {
+      "track": "talented-us",
+      "eng": "talented",
+      "rus": "талантливый"
+    },
+    {
+      "track": "silly-us",
+      "eng": "silly",
+      "rus": "глупый"
+    },
+    {
+      "track": "stupid-us",
+      "eng": "stupid",
+      "rus": "глупый, тупой"
+    },
+    {
+      "track": "mad-us",
+      "eng": "mad",
+      "rus": "сумасшедший"
+    },
+    {
+      "track": "diligent-us",
+      "eng": "diligent",
+      "rus": "прилежный / усердный"
+    },
+    {
+      "track": "crazy-us",
+      "eng": "crazy",
+      "rus": "сумасшедший / чокнутый"
+    },
+    {
+      "track": "lazy-us",
+      "eng": "lazy",
+      "rus": "ленивый"
+    },
+    {
+      "track": "high-quality-us",
+      "eng": "high-quality",
+      "rus": "качественный"
+    },
+    {
+      "track": "similar-us",
+      "eng": "similar",
+      "rus": "похожий"
+    },
+    {
+      "track": "different-us",
+      "eng": "different",
+      "rus": "различный"
+    },
+    {
+      "track": "main-us",
+      "eng": "main",
+      "rus": "главный"
+    },
+    {
+      "track": "important-us",
+      "eng": "important",
+      "rus": "важный"
+    },
+    {
+      "track": "insignificant-us",
+      "eng": "insignificant",
+      "rus": "незначительный"
+    },
+    {
+      "track": "necessary-us",
+      "eng": "necessary",
+      "rus": "необходимый"
+    },
+    {
+      "track": "possible-us",
+      "eng": "possible",
+      "rus": "возможный"
+    },
+    {
+      "track": "desirable-us",
+      "eng": "desirable",
+      "rus": "желательный"
+    },
+    {
+      "track": "occasional-us",
+      "eng": "occasional",
+      "rus": "случайный"
+    },
+    {
+      "track": "correct-us",
+      "eng": "correct",
+      "rus": "правильный"
+    },
+    {
+      "track": "wrong-us",
+      "eng": "wrong",
+      "rus": "неправильный"
+    },
+    {
+      "track": "absurd-us",
+      "eng": "absurd",
+      "rus": "абсурдный"
+    },
+    {
+      "track": "legal-us",
+      "eng": "legal",
+      "rus": "законный"
+    },
+    {
+      "track": "illegal-us",
+      "eng": "illegal",
+      "rus": "незаконный"
+    },
+    {
+      "track": "standard-us",
+      "eng": "standard",
+      "rus": "стандартный"
+    },
+    {
+      "track": "suitable-us",
+      "eng": "suitable",
+      "rus": "подходящий"
+    },
+    {
+      "track": "appropriate-us",
+      "eng": "appropriate",
+      "rus": "подходящий"
+    },
+    {
+      "track": "acceptable-us",
+      "eng": "acceptable",
+      "rus": "приемлемый"
+    },
+    {
+      "track": "satisfactory-us",
+      "eng": "satisfactory",
+      "rus": "удовлетворительный"
+    },
+    {
+      "track": "advantageous-us",
+      "eng": "advantageous",
+      "rus": "выгодный"
+    },
+    {
+      "track": "disadvantageous-us",
+      "eng": "disadvantageous",
+      "rus": "невыгодный"
+    },
+    {
+      "track": "useful-us",
+      "eng": "useful",
+      "rus": "полезный"
+    },
+    {
+      "track": "harmful-us",
+      "eng": "harmful",
+      "rus": "вредный"
+    },
+    {
+      "track": "cheap-us",
+      "eng": "cheap",
+      "rus": "дешевый"
+    },
+    {
+      "track": "expensive-us",
+      "eng": "expensive",
+      "rus": "дорогой"
+    },
+    {
+      "track": "healthy-us",
+      "eng": "healthy",
+      "rus": "здоровый"
+    },
+    {
+      "track": "sick-us",
+      "eng": "sick",
+      "rus": "больной"
+    },
+    {
+      "track": "ill-us",
+      "eng": "ill",
+      "rus": "больной"
+    },
+    {
+      "track": "strong-us",
+      "eng": "strong",
+      "rus": "сильный, крепкий"
+    },
+    {
+      "track": "weak-us",
+      "eng": "weak",
+      "rus": "слабый"
+    },
+    {
+      "track": "tired-us",
+      "eng": "tired",
+      "rus": "усталый"
+    },
+    {
+      "track": "rich-us",
+      "eng": "rich",
+      "rus": "богатый"
+    },
+    {
+      "track": "ready-us",
+      "eng": "ready",
+      "rus": "готовый"
+    },
+    {
+      "track": "convenient-us",
+      "eng": "convenient",
+      "rus": "удобный"
+    },
+    {
+      "track": "comfortable-us",
+      "eng": "comfortable",
+      "rus": "удобный"
+    },
+    {
+      "track": "vacant-us",
+      "eng": "vacant",
+      "rus": "свободный / вакантный"
+    },
+    {
+      "track": "busy-us",
+      "eng": "busy",
+      "rus": "занятый (чем-либо)"
+    },
+    {
+      "track": "occupied-us",
+      "eng": "occupied",
+      "rus": "занятый (о месте)"
+    },
+    {
+      "track": "clean-us",
+      "eng": "clean",
+      "rus": "чистый"
+    },
+    {
+      "track": "dirty-us",
+      "eng": "dirty",
+      "rus": "грязный"
+    },
+    {
+      "track": "hungry-us",
+      "eng": "hungry",
+      "rus": "голодный"
+    },
+    {
+      "track": "thirsty-us",
+      "eng": "thirsty",
+      "rus": "жаждущий"
+    },
+    {
+      "track": "average-us",
+      "eng": "average",
+      "rus": "средний"
+    },
+    {
+      "track": "sufficient-us",
+      "eng": "sufficient",
+      "rus": "достаточный"
+    },
+    {
+      "track": "full-us",
+      "eng": "full",
+      "rus": "полный"
     }
   ],
   "verb": [

@@ -149,6 +149,1411 @@
       "track": "century-us",
       "eng": "century",
       "rus": "век, столетие"
+    },
+    {
+      "track": "weather-us",
+      "eng": "weather",
+      "rus": "погода"
+    },
+    {
+      "track": "season-us",
+      "eng": "season",
+      "rus": "сезон"
+    },
+    {
+      "track": "north-us",
+      "eng": "north",
+      "rus": "север"
+    },
+    {
+      "track": "winter-us",
+      "eng": "winter",
+      "rus": "зима"
+    },
+    {
+      "track": "spring-us",
+      "eng": "spring",
+      "rus": "весна"
+    },
+    {
+      "track": "summer-us",
+      "eng": "summer",
+      "rus": "лето"
+    },
+    {
+      "track": "autumn-us",
+      "eng": "autumn",
+      "rus": "осень"
+    },
+    {
+      "track": "temperature-us",
+      "eng": "temperature",
+      "rus": "температура"
+    },
+    {
+      "track": "pressure-us",
+      "eng": "pressure",
+      "rus": "давление"
+    },
+    {
+      "track": "rain-us",
+      "eng": "rain",
+      "rus": "дождь"
+    },
+    {
+      "track": "snow-us",
+      "eng": "snow",
+      "rus": "снег"
+    },
+    {
+      "track": "thunder-us",
+      "eng": "thunder",
+      "rus": "гром"
+    },
+    {
+      "track": "lightning-us",
+      "eng": "lightning",
+      "rus": "молния"
+    },
+    {
+      "track": "wind-us",
+      "eng": "wind",
+      "rus": "ветер"
+    },
+    {
+      "track": "hour-us",
+      "eng": "hour",
+      "rus": "час"
+    },
+    {
+      "track": "minute-us",
+      "eng": "minute",
+      "rus": "минута"
+    },
+    {
+      "track": "clock-us",
+      "eng": "clock",
+      "rus": "часы"
+    },
+    {
+      "track": "watch-us",
+      "eng": "watch",
+      "rus": "часы"
+    },
+    {
+      "track": "calendar-us",
+      "eng": "calendar",
+      "rus": "календарь"
+    },
+    {
+      "track": "morning-us",
+      "eng": "morning",
+      "rus": "утро"
+    },
+    {
+      "track": "midday-us",
+      "eng": "midday",
+      "rus": "полдень"
+    },
+    {
+      "track": "noon-us",
+      "eng": "noon",
+      "rus": "полдень"
+    },
+    {
+      "track": "afternoon-us",
+      "eng": "afternoon",
+      "rus": "время после обеда"
+    },
+    {
+      "track": "evening-us",
+      "eng": "evening",
+      "rus": "вечер"
+    },
+    {
+      "track": "night-us",
+      "eng": "night",
+      "rus": "ночь"
+    },
+    {
+      "track": "present-us",
+      "eng": "present",
+      "rus": "настоящее"
+    },
+    {
+      "track": "past-us",
+      "eng": "past",
+      "rus": "прошлое"
+    },
+    {
+      "track": "future-us",
+      "eng": "future",
+      "rus": "будущее"
+    },
+    {
+      "track": "beginning-us",
+      "eng": "beginning",
+      "rus": "начало"
+    },
+    {
+      "track": "end-us",
+      "eng": "end",
+      "rus": "конец"
+    },
+    {
+      "track": "schedule-us",
+      "eng": "schedule",
+      "rus": "расписание"
+    },
+    {
+      "track": "delay-us",
+      "eng": "delay",
+      "rus": "задержка"
+    },
+    {
+      "track": "holiday-us",
+      "eng": "holiday",
+      "rus": "праздник /каникулы"
+    },
+    {
+      "track": "weekend-us",
+      "eng": "weekend",
+      "rus": "выходные дни"
+    },
+    {
+      "track": "vacation-us",
+      "eng": "vacation",
+      "rus": "каникулы"
+    },
+    {
+      "track": "man-us",
+      "eng": "man",
+      "rus": "мужчина"
+    },
+    {
+      "track": "woman-us",
+      "eng": "woman",
+      "rus": "женщина"
+    },
+    {
+      "track": "child-us",
+      "eng": "child",
+      "rus": "ребенок"
+    },
+    {
+      "track": "girl-us",
+      "eng": "girl",
+      "rus": "девочка"
+    },
+    {
+      "track": "boy-us",
+      "eng": "boy",
+      "rus": "мальчик"
+    },
+    {
+      "track": "youth-us",
+      "eng": "youth",
+      "rus": "юность, молодость"
+    },
+    {
+      "track": "grown-up-us",
+      "eng": "grown-up",
+      "rus": "взрослый (человек)"
+    },
+    {
+      "track": "nationality-us",
+      "eng": "nationality",
+      "rus": "национальность"
+    },
+    {
+      "track": "body-us",
+      "eng": "body",
+      "rus": "тело"
+    },
+    {
+      "track": "weight-us",
+      "eng": "weight",
+      "rus": "вес"
+    },
+    {
+      "track": "bone-us",
+      "eng": "bone",
+      "rus": "кость"
+    },
+    {
+      "track": "muscle-us",
+      "eng": "muscle",
+      "rus": "мышцы"
+    },
+    {
+      "track": "blood-us",
+      "eng": "blood",
+      "rus": "кровь"
+    },
+    {
+      "track": "skin-us",
+      "eng": "skin",
+      "rus": "кожа"
+    },
+    {
+      "track": "hair-us",
+      "eng": "hair",
+      "rus": "волосы"
+    },
+    {
+      "track": "head-us",
+      "eng": "head",
+      "rus": "голова"
+    },
+    {
+      "track": "neck-us",
+      "eng": "neck",
+      "rus": "шея"
+    },
+    {
+      "track": "chest-us",
+      "eng": "chest",
+      "rus": "грудь"
+    },
+    {
+      "track": "back-us",
+      "eng": "back",
+      "rus": "спина"
+    },
+    {
+      "track": "stomach-us",
+      "eng": "stomach",
+      "rus": "живот, желудок"
+    },
+    {
+      "track": "leg-us",
+      "eng": "leg",
+      "rus": "нога"
+    },
+    {
+      "track": "foot-us",
+      "eng": "foot",
+      "rus": "месяц"
+    },
+    {
+      "track": "arm-us",
+      "eng": "arm",
+      "rus": "рука"
+    },
+    {
+      "track": "hand-us",
+      "eng": "hand",
+      "rus": "кисть"
+    },
+    {
+      "track": "finger-us",
+      "eng": "finger",
+      "rus": "палец"
+    },
+    {
+      "track": "elbow-us",
+      "eng": "elbow",
+      "rus": "локоть"
+    },
+    {
+      "track": "knee-us",
+      "eng": "knee",
+      "rus": "колено"
+    },
+    {
+      "track": "waist-us",
+      "eng": "waist",
+      "rus": "талия"
+    },
+    {
+      "track": "heel-us",
+      "eng": "heel",
+      "rus": "пятка"
+    },
+    {
+      "track": "nail-us",
+      "eng": "nail",
+      "rus": "ноготь"
+    },
+    {
+      "track": "face-us",
+      "eng": "face",
+      "rus": "лицо"
+    },
+    {
+      "track": "eye-us",
+      "eng": "eye",
+      "rus": "глаз"
+    },
+    {
+      "track": "ear-us",
+      "eng": "ear",
+      "rus": "ухо"
+    },
+    {
+      "track": "forehead-us",
+      "eng": "forehead",
+      "rus": "лоб"
+    },
+    {
+      "track": "cheek-us",
+      "eng": "cheek",
+      "rus": "щека"
+    },
+    {
+      "track": "mouth-us",
+      "eng": "mouth",
+      "rus": "рот"
+    },
+    {
+      "track": "lip-us",
+      "eng": "lip",
+      "rus": "губа"
+    },
+    {
+      "track": "tooth-us",
+      "eng": "tooth",
+      "rus": "зуб"
+    },
+    {
+      "track": "tongue-us",
+      "eng": "tongue",
+      "rus": "язык"
+    },
+    {
+      "track": "nose-us",
+      "eng": "nose",
+      "rus": "нос"
+    },
+    {
+      "track": "eyebrow-us",
+      "eng": "eyebrow",
+      "rus": "бровь"
+    },
+    {
+      "track": "eyelash-us",
+      "eng": "eyelash",
+      "rus": "ресница"
+    },
+    {
+      "track": "skull-us",
+      "eng": "skull",
+      "rus": "череп"
+    },
+    {
+      "track": "chin-us",
+      "eng": "chin",
+      "rus": "подбородок"
+    },
+    {
+      "track": "temple-us",
+      "eng": "temple",
+      "rus": "висок"
+    },
+    {
+      "track": "brain-us",
+      "eng": "brain",
+      "rus": "мозг"
+    },
+    {
+      "track": "lungs-us",
+      "eng": "lungs",
+      "rus": "легкие"
+    },
+    {
+      "track": "heart-us",
+      "eng": "heart",
+      "rus": "сердце"
+    },
+    {
+      "track": "liver-us",
+      "eng": "liver",
+      "rus": "печень"
+    },
+    {
+      "track": "kidney-us",
+      "eng": "kidney",
+      "rus": "почка"
+    },
+    {
+      "track": "family-us",
+      "eng": "family",
+      "rus": "семья"
+    },
+    {
+      "track": "father-us",
+      "eng": "father",
+      "rus": "отец"
+    },
+    {
+      "track": "mother-us",
+      "eng": "mother",
+      "rus": "мать"
+    },
+    {
+      "track": "sister-us",
+      "eng": "sister",
+      "rus": "сестра"
+    },
+    {
+      "track": "brother-us",
+      "eng": "brother",
+      "rus": "брат"
+    },
+    {
+      "track": "husband-us",
+      "eng": "husband",
+      "rus": "муж"
+    },
+    {
+      "track": "wife-us",
+      "eng": "wife",
+      "rus": "жена"
+    },
+    {
+      "track": "son-us",
+      "eng": "son",
+      "rus": "сын"
+    },
+    {
+      "track": "daughter-us",
+      "eng": "daughter",
+      "rus": "дочь"
+    },
+    {
+      "track": "wedding-us",
+      "eng": "wedding",
+      "rus": "свадьба"
+    },
+    {
+      "track": "divorce-us",
+      "eng": "divorce",
+      "rus": "развод"
+    },
+    {
+      "track": "parents-us",
+      "eng": "parents",
+      "rus": "родители"
+    },
+    {
+      "track": "relatives-us",
+      "eng": "relatives",
+      "rus": "родные"
+    },
+    {
+      "track": "grandfather-us",
+      "eng": "grandfather",
+      "rus": "дедушка"
+    },
+    {
+      "track": "grandmother-us",
+      "eng": "grandmother",
+      "rus": "бабушка"
+    },
+    {
+      "track": "uncle-us",
+      "eng": "uncle",
+      "rus": "дядя"
+    },
+    {
+      "track": "aunt-us",
+      "eng": "aunt",
+      "rus": "тетя"
+    },
+    {
+      "track": "nephew-us",
+      "eng": "nephew",
+      "rus": "племянник"
+    },
+    {
+      "track": "niece-us",
+      "eng": "niece",
+      "rus": "племянница"
+    },
+    {
+      "track": "cousin-us",
+      "eng": "cousin",
+      "rus": "двоюродный брат /сестра"
+    },
+    {
+      "track": "grandson-us",
+      "eng": "grandson",
+      "rus": "внук"
+    },
+    {
+      "track": "granddaughter-us",
+      "eng": "granddaughter",
+      "rus": "внучка"
+    },
+    {
+      "track": "relations-us",
+      "eng": "relations",
+      "rus": "отношение, связь"
+    },
+    {
+      "track": "friend-us",
+      "eng": "friend",
+      "rus": "друг"
+    },
+    {
+      "track": "colleague-us",
+      "eng": "colleague",
+      "rus": "коллега"
+    },
+    {
+      "track": "employer-us",
+      "eng": "employer",
+      "rus": "работодатель"
+    },
+    {
+      "track": "employee-us",
+      "eng": "employee",
+      "rus": "наемный работник"
+    },
+    {
+      "track": "acquaintance-us",
+      "eng": "acquaintance",
+      "rus": "знакомство"
+    },
+    {
+      "track": "address-us",
+      "eng": "address",
+      "rus": "адрес"
+    },
+    {
+      "track": "house-us",
+      "eng": "house",
+      "rus": "дом"
+    },
+    {
+      "track": "building-us",
+      "eng": "building",
+      "rus": "здание"
+    },
+    {
+      "track": "street-us",
+      "eng": "street",
+      "rus": "улица"
+    },
+    {
+      "track": "apartment-us",
+      "eng": "apartment",
+      "rus": "квартира"
+    },
+    {
+      "track": "flat-us",
+      "eng": "flat",
+      "rus": "квартира"
+    },
+    {
+      "track": "floor-us",
+      "eng": "floor",
+      "rus": "этаж, пол"
+    },
+    {
+      "track": "yard-us",
+      "eng": "yard",
+      "rus": "двор"
+    },
+    {
+      "track": "fence-us",
+      "eng": "fence",
+      "rus": "забор"
+    },
+    {
+      "track": "roof-us",
+      "eng": "roof",
+      "rus": "крыша"
+    },
+    {
+      "track": "wall-us",
+      "eng": "wall",
+      "rus": "стена"
+    },
+    {
+      "track": "ceiling-us",
+      "eng": "ceiling",
+      "rus": "потолок"
+    },
+    {
+      "track": "window-us",
+      "eng": "window",
+      "rus": "окно"
+    },
+    {
+      "track": "corner-us",
+      "eng": "corner",
+      "rus": "угол"
+    },
+    {
+      "track": "staircase-us",
+      "eng": "staircase",
+      "rus": "лестница"
+    },
+    {
+      "track": "landing-us",
+      "eng": "landing",
+      "rus": "лестничная площадка, посадка(о самолёте)"
+    },
+    {
+      "track": "lift-us",
+      "eng": "lift",
+      "rus": "лифт"
+    },
+    {
+      "track": "door-us",
+      "eng": "door",
+      "rus": "дверь"
+    },
+    {
+      "track": "bell-us",
+      "eng": "bell",
+      "rus": "звонок"
+    },
+    {
+      "track": "lock-us",
+      "eng": "lock",
+      "rus": "замок"
+    },
+    {
+      "track": "room-us",
+      "eng": "room",
+      "rus": "комната, номер"
+    },
+    {
+      "track": "kitchen-us",
+      "eng": "kitchen",
+      "rus": "кухня"
+    },
+    {
+      "track": "bathroom-us",
+      "eng": "bathroom",
+      "rus": "ванная"
+    },
+    {
+      "track": "toilet-us",
+      "eng": "toilet",
+      "rus": "туалет"
+    },
+    {
+      "track": "bedroom-us",
+      "eng": "bedroom",
+      "rus": "спальня"
+    },
+    {
+      "track": "furniture-us",
+      "eng": "furniture",
+      "rus": "мебель"
+    },
+    {
+      "track": "table-us",
+      "eng": "table",
+      "rus": "стол"
+    },
+    {
+      "track": "chair-us",
+      "eng": "chair",
+      "rus": "стул"
+    },
+    {
+      "track": "armchair-us",
+      "eng": "armchair",
+      "rus": "кресло"
+    },
+    {
+      "track": "bed-us",
+      "eng": "bed",
+      "rus": "кровать"
+    },
+    {
+      "track": "sofa-us",
+      "eng": "sofa",
+      "rus": "диван"
+    },
+    {
+      "track": "carpet-us",
+      "eng": "carpet",
+      "rus": "ковер"
+    },
+    {
+      "track": "mirror-us",
+      "eng": "mirror",
+      "rus": "зеркало"
+    },
+    {
+      "track": "fridge-us",
+      "eng": "fridge",
+      "rus": "холодильник"
+    },
+    {
+      "track": "stove-us",
+      "eng": "stove",
+      "rus": "плита"
+    },
+    {
+      "track": "iron-us",
+      "eng": "iron",
+      "rus": "утюг"
+    },
+    {
+      "track": "meals-us",
+      "eng": "meals",
+      "rus": "пища, еда"
+    },
+    {
+      "track": "breakfast-us",
+      "eng": "breakfast",
+      "rus": "завтрак"
+    },
+    {
+      "track": "lunch-us",
+      "eng": "lunch",
+      "rus": "второй завтрак /обед"
+    },
+    {
+      "track": "dinner-us",
+      "eng": "dinner",
+      "rus": "обед"
+    },
+    {
+      "track": "supper-us",
+      "eng": "supper",
+      "rus": "ужин"
+    },
+    {
+      "track": "appetite-us",
+      "eng": "appetite",
+      "rus": "аппетит"
+    },
+    {
+      "track": "drink-us",
+      "eng": "drink",
+      "rus": "напиток"
+    },
+    {
+      "track": "tea-us",
+      "eng": "tea",
+      "rus": "чай"
+    },
+    {
+      "track": "coffee-us",
+      "eng": "coffee",
+      "rus": "кофе"
+    },
+    {
+      "track": "milk-us",
+      "eng": "milk",
+      "rus": "молоко"
+    },
+    {
+      "track": "juice-us",
+      "eng": "juice",
+      "rus": "сок"
+    },
+    {
+      "track": "wine-us",
+      "eng": "wine",
+      "rus": "вино"
+    },
+    {
+      "track": "sweets-us",
+      "eng": "sweets",
+      "rus": "сладости"
+    },
+    {
+      "track": "chocolate-us",
+      "eng": "chocolate",
+      "rus": "шоколад"
+    },
+    {
+      "track": "biscuit-us",
+      "eng": "biscuit",
+      "rus": "печенье"
+    },
+    {
+      "track": "cake-us",
+      "eng": "cake",
+      "rus": "торт /пирожное"
+    },
+    {
+      "track": "pie-us",
+      "eng": "pie",
+      "rus": "пирог"
+    },
+    {
+      "track": "jam-us",
+      "eng": "jam",
+      "rus": "варенье"
+    },
+    {
+      "track": "sugar-us",
+      "eng": "sugar",
+      "rus": "caxap"
+    },
+    {
+      "track": "honey-us",
+      "eng": "honey",
+      "rus": "мёд"
+    },
+    {
+      "track": "dairy-us",
+      "eng": "dairy",
+      "rus": "молочный магазин"
+    },
+    {
+      "track": "sausage-us",
+      "eng": "sausage",
+      "rus": "колбаса"
+    },
+    {
+      "track": "cheese-us",
+      "eng": "cheese",
+      "rus": "сыр"
+    },
+    {
+      "track": "butter-us",
+      "eng": "butter",
+      "rus": "сливочное масло"
+    },
+    {
+      "track": "bread-us",
+      "eng": "bread",
+      "rus": "хлеб"
+    },
+    {
+      "track": "emotion-us",
+      "eng": "emotion",
+      "rus": "эмоция"
+    },
+    {
+      "track": "feeling-us",
+      "eng": "feeling",
+      "rus": "чувство"
+    },
+    {
+      "track": "pleasure-us",
+      "eng": "pleasure",
+      "rus": "удовольствие"
+    },
+    {
+      "track": "satisfaction-us",
+      "eng": "satisfaction",
+      "rus": "удовлетворение"
+    },
+    {
+      "track": "happiness-us",
+      "eng": "happiness",
+      "rus": "счастье"
+    },
+    {
+      "track": "joy-us",
+      "eng": "joy",
+      "rus": "радость"
+    },
+    {
+      "track": "sadness-us",
+      "eng": "sadness",
+      "rus": "печаль"
+    },
+    {
+      "track": "excitement-us",
+      "eng": "excitement",
+      "rus": "возбуждение"
+    },
+    {
+      "track": "suffering-us",
+      "eng": "suffering",
+      "rus": "страдание"
+    },
+    {
+      "track": "sympathy-us",
+      "eng": "sympathy",
+      "rus": "сочувствие"
+    },
+    {
+      "track": "admiration-us",
+      "eng": "admiration",
+      "rus": "восхищение"
+    },
+    {
+      "track": "respect-us",
+      "eng": "respect",
+      "rus": "уважение"
+    },
+    {
+      "track": "love-us",
+      "eng": "love",
+      "rus": "любовь"
+    },
+    {
+      "track": "friendship-us",
+      "eng": "friendship",
+      "rus": "дружба"
+    },
+    {
+      "track": "envy-us",
+      "eng": "envy",
+      "rus": "зависть"
+    },
+    {
+      "track": "wish-us",
+      "eng": "wish",
+      "rus": "желание"
+    },
+    {
+      "track": "intention-us",
+      "eng": "intention",
+      "rus": "намерение"
+    },
+    {
+      "track": "dream-us",
+      "eng": "dream",
+      "rus": "мечта"
+    },
+    {
+      "track": "hope-us",
+      "eng": "hope",
+      "rus": "надежда"
+    },
+    {
+      "track": "purpose-us",
+      "eng": "purpose",
+      "rus": "цель"
+    },
+    {
+      "track": "information-us",
+      "eng": "information",
+      "rus": "информация"
+    },
+    {
+      "track": "report-us",
+      "eng": "report",
+      "rus": "сообщение /доклад"
+    },
+    {
+      "track": "news-us",
+      "eng": "news",
+      "rus": "новости"
+    },
+    {
+      "track": "rumour-us",
+      "eng": "rumour",
+      "rus": "слух, молва"
+    },
+    {
+      "track": "truth-us",
+      "eng": "truth",
+      "rus": "правда"
+    },
+    {
+      "track": "lie-us",
+      "eng": "lie",
+      "rus": "ложь"
+    },
+    {
+      "track": "language-us",
+      "eng": "language",
+      "rus": "язык"
+    },
+    {
+      "track": "word-us",
+      "eng": "word",
+      "rus": "слово"
+    },
+    {
+      "track": "sentence-us",
+      "eng": "sentence",
+      "rus": "предложение"
+    },
+    {
+      "track": "phrase-us",
+      "eng": "phrase",
+      "rus": "словосочетание"
+    },
+    {
+      "track": "meaning-us",
+      "eng": "meaning",
+      "rus": "значение/смысл"
+    },
+    {
+      "track": "pronunciation-us",
+      "eng": "pronunciation",
+      "rus": "произношение"
+    },
+    {
+      "track": "stress-us",
+      "eng": "stress",
+      "rus": "ударение"
+    },
+    {
+      "track": "accent-us",
+      "eng": "accent",
+      "rus": "ударение"
+    },
+    {
+      "track": "conversation-us",
+      "eng": "conversation",
+      "rus": "беседа"
+    },
+    {
+      "track": "question-us",
+      "eng": "question",
+      "rus": "вопрос"
+    },
+    {
+      "track": "answer-us",
+      "eng": "answer",
+      "rus": "ответ"
+    },
+    {
+      "track": "advice-us",
+      "eng": "advice",
+      "rus": "совет"
+    },
+    {
+      "track": "warning-us",
+      "eng": "warning",
+      "rus": "предупреждение"
+    },
+    {
+      "track": "request-us",
+      "eng": "request",
+      "rus": "просьба"
+    },
+    {
+      "track": "demand-us",
+      "eng": "demand",
+      "rus": "требование"
+    },
+    {
+      "track": "promise-us",
+      "eng": "promise",
+      "rus": "обещание"
+    },
+    {
+      "track": "remark-us",
+      "eng": "remark",
+      "rus": "замечание"
+    },
+    {
+      "track": "help-us",
+      "eng": "help",
+      "rus": "помощь"
+    },
+    {
+      "track": "assistance-us",
+      "eng": "assistance",
+      "rus": "помощь"
+    },
+    {
+      "track": "etiquette-us",
+      "eng": "etiquette",
+      "rus": "этикет"
+    },
+    {
+      "track": "behaviour-us",
+      "eng": "behaviour",
+      "rus": "поведение"
+    },
+    {
+      "track": "apology-us",
+      "eng": "apology",
+      "rus": "извинение"
+    },
+    {
+      "track": "forgiveness-us",
+      "eng": "forgiveness",
+      "rus": "прощение"
+    },
+    {
+      "track": "attitude-us",
+      "eng": "attitude",
+      "rus": "отношение"
+    },
+    {
+      "track": "city-us",
+      "eng": "city",
+      "rus": "город"
+    },
+    {
+      "track": "town-us",
+      "eng": "town",
+      "rus": "маленький город"
+    },
+    {
+      "track": "square-us",
+      "eng": "square",
+      "rus": "площадь"
+    },
+    {
+      "track": "bus-us",
+      "eng": "bus",
+      "rus": "автобус"
+    },
+    {
+      "track": "trolleybus-us",
+      "eng": "trolleybus",
+      "rus": "троллейбус"
+    },
+    {
+      "track": "tram-us",
+      "eng": "tram",
+      "rus": "трамвай"
+    },
+    {
+      "track": "metro-us",
+      "eng": "metro",
+      "rus": "метро"
+    },
+    {
+      "track": "car-us",
+      "eng": "car",
+      "rus": "автомобиль"
+    },
+    {
+      "track": "taxi-us",
+      "eng": "taxi",
+      "rus": "такси"
+    },
+    {
+      "track": "truck-us",
+      "eng": "truck",
+      "rus": "грузовик"
+    },
+    {
+      "track": "platform-us",
+      "eng": "platform",
+      "rus": "платформа"
+    },
+    {
+      "track": "track-us",
+      "eng": "track",
+      "rus": "путь"
+    },
+    {
+      "track": "train-us",
+      "eng": "train",
+      "rus": "поезд"
+    },
+    {
+      "track": "departure-us",
+      "eng": "departure",
+      "rus": "отправление"
+    },
+    {
+      "track": "arrival-us",
+      "eng": "arrival",
+      "rus": "прибытие"
+    },
+    {
+      "track": "change-us",
+      "eng": "change",
+      "rus": "пересадка"
+    },
+    {
+      "track": "airport-us",
+      "eng": "airport",
+      "rus": "аэропорт"
+    },
+    {
+      "track": "plane-us",
+      "eng": "plane",
+      "rus": "самолет"
+    },
+    {
+      "track": "take-off-us",
+      "eng": "take-off",
+      "rus": "взлет"
+    },
+    {
+      "track": "pilot-us",
+      "eng": "pilot",
+      "rus": "пилот"
+    },
+    {
+      "track": "boarding-us",
+      "eng": "boarding",
+      "rus": "посадка на борт"
+    },
+    {
+      "track": "flight-us",
+      "eng": "flight",
+      "rus": "полет"
+    },
+    {
+      "track": "seat-us",
+      "eng": "seat",
+      "rus": "место"
+    },
+    {
+      "track": "hotel-us",
+      "eng": "hotel",
+      "rus": "отель, гостиница"
+    },
+    {
+      "track": "police-us",
+      "eng": "police",
+      "rus": "полиция"
+    },
+    {
+      "track": "hospital-us",
+      "eng": "hospital",
+      "rus": "больница"
+    },
+    {
+      "track": "church-us",
+      "eng": "church",
+      "rus": "церковь"
+    },
+    {
+      "track": "market-us",
+      "eng": "market",
+      "rus": "рынок"
+    },
+    {
+      "track": "restaurant-us",
+      "eng": "restaurant",
+      "rus": "ресторан"
+    },
+    {
+      "track": "circus-us",
+      "eng": "circus",
+      "rus": "цирк"
+    },
+    {
+      "track": "theatre-us",
+      "eng": "theatre",
+      "rus": "театр"
+    },
+    {
+      "track": "cinema-us",
+      "eng": "cinema",
+      "rus": "кинотеатр"
+    },
+    {
+      "track": "health-us",
+      "eng": "health",
+      "rus": "здоровье"
+    },
+    {
+      "track": "hygiene-us",
+      "eng": "hygiene",
+      "rus": "гигиена"
+    },
+    {
+      "track": "illness-us",
+      "eng": "illness",
+      "rus": "болезнь"
+    },
+    {
+      "track": "disease-us",
+      "eng": "disease",
+      "rus": "болезнь"
+    },
+    {
+      "track": "recovery-us",
+      "eng": "recovery",
+      "rus": "выздоровление"
+    },
+    {
+      "track": "death-us",
+      "eng": "death",
+      "rus": "смерть"
+    },
+    {
+      "track": "injury-us",
+      "eng": "injury",
+      "rus": "повреждение"
+    },
+    {
+      "track": "fracture-us",
+      "eng": "fracture",
+      "rus": "перелом"
+    },
+    {
+      "track": "wound-us",
+      "eng": "wound",
+      "rus": "рана"
+    },
+    {
+      "track": "burn-us",
+      "eng": "burn",
+      "rus": "ожог"
+    },
+    {
+      "track": "allergy-us",
+      "eng": "allergy",
+      "rus": "аллергия"
+    },
+    {
+      "track": "shop-us",
+      "eng": "shop",
+      "rus": "магазин"
+    },
+    {
+      "track": "goods-us",
+      "eng": "goods",
+      "rus": "товары"
+    },
+    {
+      "track": "laundry-us",
+      "eng": "laundry",
+      "rus": "прачечная"
+    },
+    {
+      "track": "reservation-us",
+      "eng": "reservation",
+      "rus": "бронирование"
+    },
+    {
+      "track": "bill-us",
+      "eng": "bill",
+      "rus": "счет"
+    },
+    {
+      "track": "profession-us",
+      "eng": "profession",
+      "rus": "профессия"
+    },
+    {
+      "track": "doctor-us",
+      "eng": "doctor",
+      "rus": "врач"
+    },
+    {
+      "track": "teacher-us",
+      "eng": "teacher",
+      "rus": "учитель"
+    },
+    {
+      "track": "lawyer-us",
+      "eng": "lawyer",
+      "rus": "юрист"
+    },
+    {
+      "track": "businessman-us",
+      "eng": "businessman",
+      "rus": "бизнесмен"
+    },
+    {
+      "track": "engineer-us",
+      "eng": "engineer",
+      "rus": "инженер"
+    },
+    {
+      "track": "worker-us",
+      "eng": "worker",
+      "rus": "рабочий"
+    },
+    {
+      "track": "officer-us",
+      "eng": "officer",
+      "rus": "офицер, полицейский"
+    },
+    {
+      "track": "soldier-us",
+      "eng": "soldier",
+      "rus": "солдат"
     }
   ],
   "adjective": [

@@ -1,11 +1,6 @@
 1. Глаголы 
-
-Глаголы наличия
 be - быть
 have - иметь
-there is - имеется
-
-Глаголы положения
 put - ставить
 lay - положить
 lie - лежать
@@ -13,16 +8,12 @@ sit - сидеть
 sit down - садиться
 stand - стоять / ставить
 hang - висеть / вешать
-
-Бытовые глаголы
 live - жить
 be born - родиться
 work - работать
 earn - зарабатывать
 eat - есть
 drink - пить
-
-Глаголы чувства
 cry - плакать
 smile - улыбаться
 laugh - смеяться
@@ -30,8 +21,6 @@ enjoy - наслаждаться
 doubt - сомневаться
 hurt - делать больно
 offend - обижать
-
-Глаголы мышления
 see - видеть
 look - смотреть
 listen - слушать
@@ -49,8 +38,6 @@ multiply - умножать
 divide - делить
 think - думать
 decide - решать 
-
-Рабочие операции
 do - делать
 make - делать
 perform - выполнять
@@ -82,7 +69,6 @@ begin - начинать(ся)
 appear - появляться
 continue - продолжать(ся)
 take - занимать (время)
-
 Глаголы общения
 speak - говорить
 talk - говорить
@@ -106,8 +92,6 @@ introduce - представлять
 disturb - мешать / беспокоить
 forgive - прощать
 apologize - извиняться
-
-Глаголы противостояния
 attack - нападать
 fight - сражаться
 defend - защищать
@@ -118,10 +102,7 @@ kill - убить
 wound - ранить 
 
 
-
 2. Прилагательные
-
-Цвет
 red - красный
 orange - оранжевый
 yellow - желтый
@@ -136,33 +117,23 @@ dark - темный
 light - светлый
 bright - яркий
 pale - бледный
-
-Форма 
 flat - плоский
 straight - прямой
 curved - кривой
 square - квадратный
 oval - овальный
 round - круглый
-
-На вкyc
 sweet - сладкий
 strong - крепкий
 spicy - острый
-
-На слyx
 loud - громкий
 quiet - тихий
 noisy - шумный
 sharp - резкий
 pleasant - приятный
-
-На запах
 aromatic - ароматный
 specific - специфический
 smelly - неприятно пахнущий
-
-Характеристики
 long - долгий
 short - короткий
 fast - быстрый
@@ -174,9 +145,6 @@ old - старый
 new - новый
 young - молодой
 adult - взрослый
-
-
-Стадии
 ancient - древний
 past - прошлый
 present - настоящий
@@ -185,10 +153,6 @@ previous - предыдущий
 recent - недавний
 next - следующий
 following - следующий
-the first - первый
-the last - последний
-
-Характер действия / частота
 constant - постоянный
 continuous - длящийся
 uninterrupted - непрерывный
@@ -197,15 +161,11 @@ frequent - частый
 sudden - внезапный
 urgent - срочный
 usual - обычный
-
-Настроение
 calm - спокойный
 angry - злой
 sad - печальный
 lonely - одинокий
 happy - счастливый
-
-Оценка и описание чего-то / кого-то
 good - хороший
 bad - плохой
 interesting - интересный
@@ -232,8 +192,6 @@ sensitive - чувствительный
 indifferent - безразличный
 hard-hearted - черствый
 good-hearted - добросердечный
-
-Моральные качества
 decent - приличный
 honest - честный
 fair - честный /справедливый
@@ -242,8 +200,6 @@ dishonest - нечестный
 innocent - невиновный
 guilty - виновный
 criminal - преступный
-
-О человеке
 talkative - разговорчивый
 sociable - общительный
 disobedient - непослушный
@@ -262,8 +218,6 @@ mad - сумасшедший
 crazy - сумасшедший / чокнутый
 diligent - прилежный / усердный
 lazy - ленивый
-
-Качество
 high-quality - качественный
 similar - похожий
 different - различный
@@ -271,14 +225,10 @@ the same - тот же самый
 main - главный
 important - важный
 insignificant - незначительный
-
-Категории
 necessary - необходимый
 possible - возможный
 desirable - желательный
 occasional - случайный 
-
-Соответствие
 correct - правильный
 wrong - неправильный
 absurd - абсурдный
@@ -298,20 +248,14 @@ harmless - безвредный
 cheap - дешевый
 expensive - дорогой
 free of charge - бесплатный
-
-Здоровье
 healthy - здоровый
 sick - больной
 ill - больной
 strong - сильный
 weak - слабый
 tired - усталый
-
-Материальное положение
 rich - богатый
 рооr - бедный
-
-Другое
 ready - готовый
 convenient - удобный
 comfortable - удобный
@@ -329,8 +273,7 @@ full - полный
 
 3. Существительные
 
-Мир
-Погода
+
 weather - погода
 season - сезон
 north - север
@@ -345,8 +288,6 @@ snow - снег
 thunder - гром
 lightning - молния
 wind - ветер
-
-Время
 hour - час
 minute - минута
 clock - часы
@@ -368,8 +309,6 @@ delay - задержка
 holiday - праздник /каникулы
 weekend - выходные дни
 vacation - каникулы
-
-Человек
 human being - человек
 man - мужчина
 woman - женщина
@@ -379,8 +318,6 @@ boy - мальчик
 youth - юность, молодость
 grown-up - взрослый (человек)
 nationality - национальность 
-
-Анатомия
 body - тело
 weight - вес
 bone - кость
@@ -404,8 +341,6 @@ knee - колено
 waist - талия
 heel - пятка
 nail - ноготь
-
-Части лица
 face - лицо
 eye - глаз
 ear - ухо
@@ -421,22 +356,12 @@ eyelash - ресница
 skull - череп
 chin - подбородок
 temple - висок
-
-Органы
 brain - мозг
 lungs - легкие
 heart - сердце
 stomach - желудок
 liver - печень
 kidney - почка
-
-
-
-
-
-
-
-Семья
 family - семья
 father - отец
 mother - мать
@@ -450,8 +375,6 @@ daughter - дочь
 wedding - свадьба
 divorce - развод
 parents - родители
-
-Родственники
 relatives - родные
 grandfather - дедушка
 grandmother - бабушка
@@ -462,16 +385,12 @@ niece - племянница
 cousin - двоюродный брат /сестра
 grandson - внук
 granddaughter - внучка
-
-Связи
 relations - отношение, связь
 friend - друг
 colleague - коллега
 employer - работодатель
 employee - наемный работник
 acquaintance - знакомство 
-
-Жилье
 address - адрес
 house - дом
 building - здание
@@ -482,9 +401,6 @@ flat - квартира
 floor - этаж
 yard - двор
 fence - забор  
-
-
-Устройство дома
 roof - крыша
 wall - стена
 floor - пол
@@ -498,16 +414,12 @@ door - дверь
 bell - звонок
 lock - замок
 кеу - ключ
-
-Комнаты
 room - комната
 entrance hall - прихожая
 kitchen - кухня
 bathroom - ванная
 toilet - туалет
 bedroom - спальня
-
-Мебель
 furniture - мебель
 table - стол
 chair - стул
@@ -516,31 +428,23 @@ bed - кровать
 sofa - диван
 carpet - ковер
 mirror - зеркало
-
-Бытовые приборы
 fridge - холодильник
 vacuum cleaner - пылесос
 washing machine - стиральная машина
 stove - плита
 iron - утюг
-
-Прием пищи
 meals - пища, еда
 breakfast - завтрак
 lunch - второй завтрак /обед
 dinner - обед
 supper - ужин
 appetite - аппетит 
-
-Напитки
 drink - напиток
 tea - чай
 coffee - кофе
 milk - молоко
 juice - сок
 wine - вино
-
-Сладости
 sweets - сладости
 chocolate - шоколад
 biscuit - печенье
@@ -549,8 +453,6 @@ pie - пирог
 jam - варенье
 sugar - caxap
 honey - мёд 
-
-Продукты питания
 butcher’s - мясной магазин
 greengrocer’s - овощной магазин
 dairy - молочный магазин
@@ -559,10 +461,7 @@ cheese - сыр
 fish - рыба
 canned goods - консервы
 butter - сливочное масло
-vegetable oil - растительное масло
 bread - хлеб
-
-Эмоции
 emotion - эмоция
 feeling - чувство
 pleasure - удовольствие
@@ -575,8 +474,6 @@ suffering - страдание
 sympathy - сочувствие
 admiration - восхищение
 respect - уважение
-
-Другое
 love - любовь
 friendship - дружба
 envy - зависть
@@ -585,16 +482,12 @@ intention - намерение
 dream - мечта
 hope - надежда
 purpose - цель
-
-Информация
 information - информация
 report - сообщение /доклад
 news - новости
 rumour - слух, молва
 truth - правда
 lie - ложь
-
-Язык
 language - язык
 word - слово
 foreign language - иностранный язык
@@ -605,8 +498,6 @@ meaning - значение/смысл
 pronunciation - произношение
 stress - ударение
 accent - ударение
-
-Цель высказывания
 conversation - беседа
 question - вопрос
 answer - ответ
@@ -618,24 +509,17 @@ promise - обещание
 remark - замечание
 help - помощь
 assistance - помощь 
-
-Этикет
 etiquette - этикет
 behaviour - поведение
 politeness - вежливость
 apology - извинение
 forgiveness - прощение
 attitude - отношение
-
-
-Город
 city - город
 town - маленький город
 street - улица
 square - площадь
 building - здание
-
-Транспорт
 bus - автобус
 trolleybus - троллейбус
 tram - трамвай
@@ -643,15 +527,12 @@ metro - метро
 car - автомобиль
 taxi - такси
 truck - грузовик
-
-railway station - железная дорога
 platform - платформа
 track - путь
 train - поезд
 departure - отправление
 arrival - прибытие
 change - пересадка
-
 airport - аэропорт
 plane - самолет
 check in - регистрация
@@ -664,8 +545,6 @@ boarding - посадка на борт
 flight - полет
 seat - место
 seat-belt - ремень безопасности
-
-Объекты города
 hotel - отель
 police - полиция
 hospital - больница
@@ -675,8 +554,6 @@ restaurant - ресторан
 circus - цирк
 theatre - театр
 cinema - кинотеатр
-
-Другое
 health - здоровье
 hygiene - гигиена
 illness - болезнь
@@ -706,35 +583,19 @@ officer - офицер, полицейский
 soldier - солдат   
 
 4. Наречия
-
-Вопросительные 
-how many - сколько
-how much - сколько
 когда - when 
 почему - why
-
-Места
-in front of - впереди
-Направления
-назад - back, backwards 
+back - назад
 up - вверх
 down - вниз
 sideways - в сторону
-направо - to the right 
-налево - to the left 
-вокруг - around 
-
-Времени
+around  вокруг - 
 now - сейчас
 lately - в последнее время
 recently - недавно
 just - только что
-on the eve - накануне
-long ago - давно 
 already - уже
 yet - уже
-
-Повторения и частотности
 always - всегда
 often - часто
 frequently - часто 
@@ -743,13 +604,107 @@ usually - обычно
 seldom - редко
 sometimes - иногда 
 never - никогда 
-
-Наречия для соединения предложений
-поэтому - that’s why
-однако - however 
-тем не менее - nevertheless
-тем временем - meanwhile 
-в противном случае - otherwise
-
+however однако - 
+nevertheless тем не менее - 
+meanwhile тем временем - 
+otherwise в противном случае - 
+absolutely	совершенно; безусловно	
+actually	на самом деле, в действительности	
+badly	скверно, дурно, плохо	
+bravely	смело	
+bright(ly)	ярко	
+fast быстро	
+finally	в конечном счёте, в конце концов	
+firstly	во-первых	
+calmly	спокойно, хладнокровно, невозмутимо	
+carefullyтщательно, внимательно
+cheap(ly)	дешево	
+clearly	ясно; очевидно; несомненно
+completely	вполне, всецело, полностью	
+daily	ежедневно, каждый день
+decidedly	определённо; решительно, 
+deeply	глубоко
+definitely	определённо, точно, явно	
+easily	легко; свободно, без труда
+especially	особенно, главным образом	
+exactly	в точности; как раз; ровно	
+extremely	чрезвычайно, крайне; очень	
+fast	быстро	
+finally	в конечном счёте, в конце концов	
+firstly	во-первых	
+fortunately	счастливо, к счастью	
+frequently	часто	
+fully	вполне, полностью, совершенно	
+gently	мягко, нежно, кротко	
+gratefully	с благодарностью, благодарно	
+happily	успешно; к счастью; с удовольствием	
+hard	усердно, настойчиво, упорно	
+hardly	едва, еле	
+heavily	тяжело; сильно, интенсивно
+honestly	честно; искренне, правдиво
+hopelessly	безнадёжно	
+immediately	непосредственно; немедленно, сразу	
+incredibly	неправдоподобно, 
+loudly 	громким голосом, громко
+monthly ежемесячно; раз в месяц
+nearly почти; приблизительно
+noisily шумно, громко
+obviously явно, заметно; очевидно
+perfectly совершенно; отлично, прекрасно
+politely вежливо, любезно
+probably вероятно, наверное
+properly должным образом; как следует; правильно
+quickly быстро, скоро, поспешно
+quietly спокойно, тихо, бесшумно
+rapidly быстро
+rarely 	редко, нечасто
+really действительно, в самом деле
+recently 	недавно; в последнее время
+regularly регулярно, постоянно
+repeatedly часто, неоднократно
+roughly приблизительно, ориентировочно
+separately	отдельно, порознь
+seriously (говоря) серьёзно
+slightly незначительно, слегка
+slowly медленно
+straight прямо, по прямой линии
+suddenly вдруг, внезапно, неожиданно
+tightly	плотно, туго
+totally полностью; совершенно
+truly	правдиво; искренне
+unfortunately	к несчастью, к сожалению
+weekly	еженедельно; раз в неделю
+well	хорошо
+yearly	каждый год, ежегодно
+also - также
+accidentally - случайно 
+arrogantly - высокомерно
+beautifully - красиво
+blissfully - блаженно
+boastfully - хвастливо
+broadly - широко
+cautiously - осторожно
+cleverly - умно
+courageously - смело
+daintily  - изящно
+defiantly - вызывающе
+doubtfully - сомнительно
+dreamily - мечтательно
+energetically - энергично
+enthusiastically- с энтузиазмом
+equally - одинаково
+eventually - в конце концов
+excitedly - взволнованно
+fondly - нежно
+foolishly - глупо
+greedily - жадно
+justly - справедливо
+lazily - лениво
+loosely - свободно
+occasionally - изредка
+thus - таким образом
+very - сильно, интенсивно
+warmly - тепло
+yesterday - вчера
 
 

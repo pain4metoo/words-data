@@ -19,6 +19,136 @@
       "track": "air-us",
       "eng": "air",
       "rus": "воздух"
+    },
+    {
+      "track": "cloud-us",
+      "eng": "cloud",
+      "rus": "облако"
+    },
+    {
+      "track": "land-us",
+      "eng": "land",
+      "rus": "суша"
+    },
+    {
+      "track": "continent-us",
+      "eng": "continent",
+      "rus": "континент"
+    },
+    {
+      "track": "territory-us",
+      "eng": "territory",
+      "rus": "территория"
+    },
+    {
+      "track": "lake-us",
+      "eng": "lake",
+      "rus": "озеро"
+    },
+    {
+      "track": "river-us",
+      "eng": "river",
+      "rus": "река"
+    },
+    {
+      "track": "sea-us",
+      "eng": "sea",
+      "rus": "море"
+    },
+    {
+      "track": "forest-us",
+      "eng": "forest",
+      "rus": "лес"
+    },
+    {
+      "track": "water-us",
+      "eng": "water",
+      "rus": "вода"
+    },
+    {
+      "track": "south-us",
+      "eng": "south",
+      "rus": "юг"
+    },
+    {
+      "track": "east-us",
+      "eng": "east",
+      "rus": "восток"
+    },
+    {
+      "track": "west-us",
+      "eng": "west",
+      "rus": "запад"
+    },
+    {
+      "track": "plant-us",
+      "eng": "plant",
+      "rus": "растение"
+    },
+    {
+      "track": "tree-us",
+      "eng": "tree",
+      "rus": "дерево"
+    },
+    {
+      "track": "animal-us",
+      "eng": "animal",
+      "rus": "животное"
+    },
+    {
+      "track": "bird-us",
+      "eng": "bird",
+      "rus": "птица"
+    },
+    {
+      "track": "fish-us",
+      "eng": "fish",
+      "rus": "рыба"
+    },
+    {
+      "track": "flower-us",
+      "eng": "flower",
+      "rus": "цветок"
+    },
+    {
+      "track": "insect-us",
+      "eng": "insect",
+      "rus": "насекомое"
+    },
+    {
+      "track": "time-us",
+      "eng": "time",
+      "rus": "время"
+    },
+    {
+      "track": "sun-us",
+      "eng": "sun",
+      "rus": "солнце"
+    },
+    {
+      "track": "year-us",
+      "eng": "year",
+      "rus": "год"
+    },
+    {
+      "track": "month-us",
+      "eng": "month",
+      "rus": "месяц"
+    },
+    {
+      "track": "week-us",
+      "eng": "week",
+      "rus": "неделя"
+    },
+    {
+      "track": "day-us",
+      "eng": "day",
+      "rus": "день"
+    },
+    {
+      "track": "century-us",
+      "eng": "century",
+      "rus": "век, столетие"
     }
   ],
   "adjective": [
@@ -31,6 +161,146 @@
       "track": "big-us",
       "eng": "big",
       "rus": "большой"
+    },
+    {
+      "track": "large-us",
+      "eng": "large",
+      "rus": "большой"
+    },
+    {
+      "track": "medium-us",
+      "eng": "medium",
+      "rus": "средний"
+    },
+    {
+      "track": "small-us",
+      "eng": "small",
+      "rus": "маленький"
+    },
+    {
+      "track": "humid-us",
+      "eng": "humid",
+      "rus": "влажный"
+    },
+    {
+      "track": "short-us",
+      "eng": "short",
+      "rus": "короткий"
+    },
+    {
+      "track": "wide-us",
+      "eng": "wide",
+      "rus": "широкий"
+    },
+    {
+      "track": "narrow-us",
+      "eng": "narrow",
+      "rus": "узкий"
+    },
+    {
+      "track": "high-us",
+      "eng": "high",
+      "rus": "высокий"
+    },
+    {
+      "track": "tall-us",
+      "eng": "tall",
+      "rus": "высокий"
+    },
+    {
+      "track": "low-us",
+      "eng": "low",
+      "rus": "низкий"
+    },
+    {
+      "track": "deep-us",
+      "eng": "deep",
+      "rus": "глубокий"
+    },
+    {
+      "track": "shallow-us",
+      "eng": "shallow",
+      "rus": "мелкий (о глубине)"
+    },
+    {
+      "track": "thick-us",
+      "eng": "thick",
+      "rus": "толстый"
+    },
+    {
+      "track": "thin-us",
+      "eng": "thin",
+      "rus": "тонкий"
+    },
+    {
+      "track": "far-us",
+      "eng": "far",
+      "rus": "далекий"
+    },
+    {
+      "track": "near-us",
+      "eng": "near",
+      "rus": "близкий"
+    },
+    {
+      "track": "long-us",
+      "eng": "long",
+      "rus": "долгий"
+    },
+    {
+      "track": "wet-us",
+      "eng": "wet",
+      "rus": "мокрый"
+    },
+    {
+      "track": "tasty-us",
+      "eng": "tasty",
+      "rus": "вкусный"
+    },
+    {
+      "track": "tasteless-us",
+      "eng": "tasteless",
+      "rus": "безвкусный"
+    },
+    {
+      "track": "sour-us",
+      "eng": "sour",
+      "rus": "кислый"
+    },
+    {
+      "track": "salty-us",
+      "eng": "salty",
+      "rus": "соленый"
+    },
+    {
+      "track": "bitter-us",
+      "eng": "bitter",
+      "rus": "горький"
+    },
+    {
+      "track": "hot-us",
+      "eng": "hot",
+      "rus": "горячий"
+    },
+    {
+      "track": "warm-us",
+      "eng": "warm",
+      "rus": "теплый"
+    },
+    {
+      "track": "cool-us",
+      "eng": "cool",
+      "rus": "прохладный"
+    },
+    {
+      "track": "cold-us",
+      "eng": "cold",
+      "rus": "холодный"
+    },
+    {
+      "track": "dry-us",
+      "eng": "dry",
+      "rus": "сухой"
     }
   ],
   "verb": [
@@ -48,6 +318,616 @@
       "track": "lift-us",
       "eng": "lift",
       "rus": "поднимать"
+    },
+    {
+      "track": "raise-us",
+      "eng": "raise",
+      "rus": "поднимать"
+    },
+    {
+      "track": "rise-us",
+      "eng": "rise",
+      "rus": "подниматься"
+    },
+    {
+      "track": "lower-us",
+      "eng": "lower",
+      "rus": "опускать"
+    },
+    {
+      "track": "iron-us",
+      "eng": "iron",
+      "rus": "гладить"
+    },
+    {
+      "track": "ride-us",
+      "eng": "ride",
+      "rus": "скакать / ехать"
+    },
+    {
+      "track": "leave-us",
+      "eng": "leave",
+      "rus": "отправляться"
+    },
+    {
+      "track": "cross-us",
+      "eng": "cross",
+      "rus": "пересекать"
+    },
+    {
+      "track": "follow-us",
+      "eng": "follow",
+      "rus": "следовать"
+    },
+    {
+      "track": "arrive-us",
+      "eng": "arrive",
+      "rus": "прибывать"
+    },
+    {
+      "track": "return-us",
+      "eng": "return",
+      "rus": "возвращаться"
+    },
+    {
+      "track": "go-us",
+      "eng": "go",
+      "rus": "идти / ехать"
+    },
+    {
+      "track": "sleep-us",
+      "eng": "sleep",
+      "rus": "спать"
+    },
+    {
+      "track": "run-us",
+      "eng": "run",
+      "rus": "бежать"
+    },
+    {
+      "track": "fly-us",
+      "eng": "fly",
+      "rus": "летать"
+    },
+    {
+      "track": "love-us",
+      "eng": "love",
+      "rus": "любить"
+    },
+    {
+      "track": "like-us",
+      "eng": "like",
+      "rus": "нравиться"
+    },
+    {
+      "track": "want-us",
+      "eng": "want",
+      "rus": "хотеть"
+    },
+    {
+      "track": "prefer-us",
+      "eng": "prefer",
+      "rus": "предпочитать"
+    },
+    {
+      "track": "admire-us",
+      "eng": "admire",
+      "rus": "восхищаться"
+    },
+    {
+      "track": "hate-us",
+      "eng": "hate",
+      "rus": "ненавидеть"
+    },
+    {
+      "track": "accuse-us",
+      "eng": "accuse",
+      "rus": "обвинять"
+    },
+    {
+      "track": "suffer-us",
+      "eng": "suffer",
+      "rus": "страдать"
+    },
+    {
+      "track": "bake-us",
+      "eng": "bake",
+      "rus": "печь"
+    },
+    {
+      "track": "fry-us",
+      "eng": "fry",
+      "rus": "жарить"
+    },
+    {
+      "track": "boil-us",
+      "eng": "boil",
+      "rus": "кипятить /кипеть"
+    },
+    {
+      "track": "wear-us",
+      "eng": "wear",
+      "rus": "носить"
+    },
+    {
+      "track": "wash-us",
+      "eng": "wash",
+      "rus": "стирать"
+    },
+    {
+      "track": "be-us",
+      "eng": "be",
+      "rus": "быть"
+    },
+    {
+      "track": "have-us",
+      "eng": "have",
+      "rus": "иметь"
+    },
+    {
+      "track": "put-us",
+      "eng": "put",
+      "rus": "ставить"
+    },
+    {
+      "track": "lay-us",
+      "eng": "lay",
+      "rus": "положить"
+    },
+    {
+      "track": "lie-us",
+      "eng": "lie",
+      "rus": "лежать"
+    },
+    {
+      "track": "sit-us",
+      "eng": "sit",
+      "rus": "сидеть"
+    },
+    {
+      "track": "stand-us",
+      "eng": "stand",
+      "rus": "стоять / ставить"
+    },
+    {
+      "track": "hang-us",
+      "eng": "hang",
+      "rus": "висеть / вешать"
+    },
+    {
+      "track": "live-us",
+      "eng": "live",
+      "rus": "жить"
+    },
+    {
+      "track": "work-us",
+      "eng": "work",
+      "rus": "работать"
+    },
+    {
+      "track": "earn-us",
+      "eng": "earn",
+      "rus": "зарабатывать"
+    },
+    {
+      "track": "eat-us",
+      "eng": "eat",
+      "rus": "есть"
+    },
+    {
+      "track": "drink-us",
+      "eng": "drink",
+      "rus": "пить"
+    },
+    {
+      "track": "cry-us",
+      "eng": "cry",
+      "rus": "плакать"
+    },
+    {
+      "track": "smile-us",
+      "eng": "smile",
+      "rus": "улыбаться"
+    },
+    {
+      "track": "laugh-us",
+      "eng": "laugh",
+      "rus": "смеяться"
+    },
+    {
+      "track": "enjoy-us",
+      "eng": "enjoy",
+      "rus": "наслаждаться"
+    },
+    {
+      "track": "doubt-us",
+      "eng": "doubt",
+      "rus": "сомневаться"
+    },
+    {
+      "track": "hurt-us",
+      "eng": "hurt",
+      "rus": "делать больно"
+    },
+    {
+      "track": "offend-us",
+      "eng": "offend",
+      "rus": "обижать"
+    },
+    {
+      "track": "see-us",
+      "eng": "see",
+      "rus": "видеть"
+    },
+    {
+      "track": "look-us",
+      "eng": "look",
+      "rus": "смотреть"
+    },
+    {
+      "track": "listen-us",
+      "eng": "listen",
+      "rus": "слушать"
+    },
+    {
+      "track": "hear-us",
+      "eng": "hear",
+      "rus": "слышать"
+    },
+    {
+      "track": "feel-us",
+      "eng": "feel",
+      "rus": "чувствовать"
+    },
+    {
+      "track": "remember-us",
+      "eng": "remember",
+      "rus": "помнить"
+    },
+    {
+      "track": "forget-us",
+      "eng": "forget",
+      "rus": "забывать"
+    },
+    {
+      "track": "recognize-us",
+      "eng": "recognize",
+      "rus": "узнавать"
+    },
+    {
+      "track": "read-us",
+      "eng": "read",
+      "rus": "читать"
+    },
+    {
+      "track": "write-us",
+      "eng": "write",
+      "rus": "писать"
+    },
+    {
+      "track": "count-us",
+      "eng": "count",
+      "rus": "считать"
+    },
+    {
+      "track": "add-us",
+      "eng": "add",
+      "rus": "прибавлять, добавлять"
+    },
+    {
+      "track": "subtract-us",
+      "eng": "subtract",
+      "rus": "вычитать"
+    },
+    {
+      "track": "multiply-us",
+      "eng": "multiply",
+      "rus": "умножать"
+    },
+    {
+      "track": "wear-us",
+      "eng": "wear",
+      "rus": "носить"
+    },
+    {
+      "track": "divide-us",
+      "eng": "divide",
+      "rus": "делить"
+    },
+    {
+      "track": "think-us",
+      "eng": "think",
+      "rus": "думать"
+    },
+    {
+      "track": "decide-us",
+      "eng": "decide",
+      "rus": "решать"
+    },
+    {
+      "track": "do-us",
+      "eng": "do",
+      "rus": "делать"
+    },
+    {
+      "track": "make-us",
+      "eng": "make",
+      "rus": "делать"
+    },
+    {
+      "track": "perform-us",
+      "eng": "perform",
+      "rus": "выполнять"
+    },
+    {
+      "track": "prepare-us",
+      "eng": "prepare",
+      "rus": "готовить"
+    },
+    {
+      "track": "hide-us",
+      "eng": "hide",
+      "rus": "прятать"
+    },
+    {
+      "track": "search-us",
+      "eng": "search",
+      "rus": "искать"
+    },
+    {
+      "track": "find-us",
+      "eng": "find",
+      "rus": "находить"
+    },
+    {
+      "track": "fill-us",
+      "eng": "fill",
+      "rus": "наполнять"
+    },
+    {
+      "track": "reduce-us",
+      "eng": "reduce",
+      "rus": "сокращать"
+    },
+    {
+      "track": "exclude-us",
+      "eng": "exclude",
+      "rus": "исключать"
+    },
+    {
+      "track": "spend-us",
+      "eng": "spend",
+      "rus": "тратить"
+    },
+    {
+      "track": "spoil-us",
+      "eng": "spoil",
+      "rus": "портить"
+    },
+    {
+      "track": "remain-us",
+      "eng": "remain",
+      "rus": "оставаться"
+    },
+    {
+      "track": "keep-us",
+      "eng": "keep",
+      "rus": "удерживать, держать"
+    },
+    {
+      "track": "possess-us",
+      "eng": "possess",
+      "rus": "владеть"
+    },
+    {
+      "track": "belong-us",
+      "eng": "belong",
+      "rus": "принадлежать"
+    },
+    {
+      "track": "take-us",
+      "eng": "take",
+      "rus": "брать, занимать (время)"
+    },
+    {
+      "track": "push-us",
+      "eng": "push",
+      "rus": "толкать"
+    },
+    {
+      "track": "pull-us",
+      "eng": "pull",
+      "rus": "тянуть"
+    },
+    {
+      "track": "throw-us",
+      "eng": "throw",
+      "rus": "бросать"
+    },
+    {
+      "track": "open-us",
+      "eng": "open",
+      "rus": "открывать"
+    },
+    {
+      "track": "shut-us",
+      "eng": "shut",
+      "rus": "закрывать"
+    },
+    {
+      "track": "cut-us",
+      "eng": "cut",
+      "rus": "резать"
+    },
+    {
+      "track": "pour-us",
+      "eng": "pour",
+      "rus": "лить"
+    },
+    {
+      "track": "dry-us",
+      "eng": "dry",
+      "rus": "сушить"
+    },
+    {
+      "track": "begin-us",
+      "eng": "begin",
+      "rus": "начинать(ся)"
+    },
+    {
+      "track": "appear-us",
+      "eng": "appear",
+      "rus": "появляться"
+    },
+    {
+      "track": "continue-us",
+      "eng": "continue",
+      "rus": "продолжать(ся)"
+    },
+    {
+      "track": "speak-us",
+      "eng": "speak",
+      "rus": "говорить"
+    },
+    {
+      "track": "talk-us",
+      "eng": "talk",
+      "rus": "говорить"
+    },
+    {
+      "track": "say-us",
+      "eng": "say",
+      "rus": "сказать"
+    },
+    {
+      "track": "tell-us",
+      "eng": "tell",
+      "rus": "сказать"
+    },
+    {
+      "track": "address-us",
+      "eng": "address",
+      "rus": "обращаться"
+    },
+    {
+      "track": "ask-us",
+      "eng": "ask",
+      "rus": "спрашивать / просить"
+    },
+    {
+      "track": "answer-us",
+      "eng": "answer",
+      "rus": "отвечать"
+    },
+    {
+      "track": "allow-us",
+      "eng": "allow",
+      "rus": "разрешать"
+    },
+    {
+      "track": "prohibit-us",
+      "eng": "prohibit",
+      "rus": "запрещать"
+    },
+    {
+      "track": "advise-us",
+      "eng": "advise",
+      "rus": "советовать"
+    },
+    {
+      "track": "warn-us",
+      "eng": "warn",
+      "rus": "предупреждать"
+    },
+    {
+      "track": "suggest-us",
+      "eng": "suggest",
+      "rus": "предлагать"
+    },
+    {
+      "track": "offer-us",
+      "eng": "offer",
+      "rus": "предлагать"
+    },
+    {
+      "track": "buy-us",
+      "eng": "buy",
+      "rus": "покупать"
+    },
+    {
+      "track": "sell-us",
+      "eng": "sell",
+      "rus": "продавать"
+    },
+    {
+      "track": "borrow-us",
+      "eng": "borrow",
+      "rus": "брать взаймы"
+    },
+    {
+      "track": "lend-us",
+      "eng": "lend",
+      "rus": "одолжить"
+    },
+    {
+      "track": "introduce-us",
+      "eng": "introduce",
+      "rus": "представлять"
+    },
+    {
+      "track": "disturb-us",
+      "eng": "disturb",
+      "rus": "мешать / беспокоить"
+    },
+    {
+      "track": "forgive-us",
+      "eng": "forgive",
+      "rus": "прощать"
+    },
+    {
+      "track": "apologize-us",
+      "eng": "apologize",
+      "rus": "извиняться"
+    },
+    {
+      "track": "attack-us",
+      "eng": "attack",
+      "rus": "нападать"
+    },
+    {
+      "track": "fight-us",
+      "eng": "fight",
+      "rus": "сражаться"
+    },
+    {
+      "track": "defend-us",
+      "eng": "defend",
+      "rus": "защищать"
+    },
+    {
+      "track": "win-us",
+      "eng": "win",
+      "rus": "победить /выиграть"
+    },
+    {
+      "track": "lose-us",
+      "eng": "lose",
+      "rus": "проигрывать"
+    },
+    {
+      "track": "shoot-us",
+      "eng": "shoot",
+      "rus": "стрелять"
+    },
+    {
+      "track": "kill-us",
+      "eng": "kill",
+      "rus": "убить"
+    },
+    {
+      "track": "wound-us",
+      "eng": "wound",
+      "rus": "ранить"
     }
   ],
   "other": [
@@ -75,6 +955,131 @@
       "track": "before-us",
       "eng": "before",
       "rus": "раньше"
+    },
+    {
+      "track": "behind-us",
+      "eng": "behind",
+      "rus": "сзади "
+    },
+    {
+      "track": "below-us",
+      "eng": "below",
+      "rus": "внизу"
+    },
+    {
+      "track": "beside-us",
+      "eng": "beside",
+      "rus": "рядом"
+    },
+    {
+      "track": "everywhere-us",
+      "eng": "everywhere",
+      "rus": "везде"
+    },
+    {
+      "track": "far-us",
+      "eng": "far",
+      "rus": "далеко"
+    },
+    {
+      "track": "here-us",
+      "eng": "here",
+      "rus": "здесь"
+    },
+    {
+      "track": "high-us",
+      "eng": "high",
+      "rus": "высоко"
+    },
+    {
+      "track": "how-us",
+      "eng": "how",
+      "rus": "как"
+    },
+    {
+      "track": "immediately-us",
+      "eng": "immediately",
+      "rus": "немедленно"
+    },
+    {
+      "track": "inside-us",
+      "eng": "inside",
+      "rus": "внутри"
+    },
+    {
+      "track": "low-us",
+      "eng": "low",
+      "rus": "низко"
+    },
+    {
+      "track": "near-us",
+      "eng": "near",
+      "rus": "близко"
+    },
+    {
+      "track": "nowhere-us",
+      "eng": "nowhere",
+      "rus": "нигде"
+    },
+    {
+      "track": "once-us",
+      "eng": "once",
+      "rus": "однажды"
+    },
+    {
+      "track": "outside-us",
+      "eng": "outside",
+      "rus": "снаружи"
+    },
+    {
+      "track": "somewhere-us",
+      "eng": "somewhere",
+      "rus": "где-нибудь"
+    },
+    {
+      "track": "soon-us",
+      "eng": "soon",
+      "rus": "скоро"
+    },
+    {
+      "track": "still-us",
+      "eng": "still",
+      "rus": "все еще"
+    },
+    {
+      "track": "then-us",
+      "eng": "then",
+      "rus": "тогда"
+    },
+    {
+      "track": "there-us",
+      "eng": "there",
+      "rus": "там"
+    },
+    {
+      "track": "today-us",
+      "eng": "today",
+      "rus": "сегодня"
+    },
+    {
+      "track": "tomorrow-us",
+      "eng": "tomorrow",
+      "rus": "завтра"
+    },
+    {
+      "track": "tonight-us",
+      "eng": "tonight",
+      "rus": "сегодня вечером"
+    },
+    {
+      "track": "where-us",
+      "eng": "where",
+      "rus": "где"
+    },
+    {
+      "track": "yesterday-us",
+      "eng": "yesterday",
+      "rus": "вчера"
     }
   ]
 }

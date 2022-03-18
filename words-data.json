@@ -631,9 +631,9 @@
       "rus": "развод"
     },
     {
-      "track": "parents-us",
-      "eng": "parents",
-      "rus": "родители"
+      "track": "parent-us",
+      "eng": "parent",
+      "rus": "родитель"
     },
     {
       "track": "relatives-us",
